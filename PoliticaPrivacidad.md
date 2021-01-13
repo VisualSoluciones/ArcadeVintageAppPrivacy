@@ -1,6 +1,6 @@
 # POLÍTICA DE PRIVACIDAD
 
-La presente Política de Privacidad establece los términos en que la Asociación Cultural Arcade Vintage (en adelante, la "Asociación") usa y protege la información personal de sus usuarios al momento de utilizar la aplicación audio-guía "Arcade Vintage" (en adelante, la "Aplicación"), disponible para dispositivos móviles Android en la tienda Google Play, en relación a las visitas al Museo del Videojuego Arcade Vintage (en adelante, el "Museo").
+La presente **Política de Privacidad** establece los términos en que la _Asociación Cultural Arcade Vintage_ (en adelante, la "**Asociación**") usa y protege la información personal de sus usuarios al momento de utilizar la aplicación audio-guía "_Arcade Vintage_" (en adelante, la "**Aplicación**"), disponible para dispositivos móviles Android en la tienda Google Play, en relación a las visitas al _Museo del Videojuego Arcade Vintage_ (en adelante, el "**Museo**").
 
 La Asociación es una organización comprometida con la seguridad de los datos de sus usuarios. Proteger su privacidad es importante para nosotros. Al usar la Aplicación, aseguramos que cualquier información personal de sus usuarios solo se empleará de acuerdo con los términos descritos en este documento.
 
@@ -10,8 +10,8 @@ La Asociación se reserva el derecho de cambiar los términos de la presente Pol
 
 ## Datos de la contacto
 
-Museo Arcade Vintage S.L. CIF: B-42680132
-Domicilio social: C/ Societat Musical Verge del Remei, Nº 4, Planta 1, 03610 Petrer (Alicante)
+Museo Arcade Vintage S.L. CIF: B-42680132  
+Domicilio social: C/ Societat Musical Verge del Remei, Nº 4, Planta 1, 03610 Petrer (Alicante)  
 Correo electrónico: rgpd@museoarcadevintage.com
 
 ## Información recogida y su uso
